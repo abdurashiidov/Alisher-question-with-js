@@ -1,0 +1,11 @@
+body{
+    background-image: url(./../img/najottalim.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.active{
+    font-size: 80px;
+    color: #ffffff;
+    font-weight: 900;
+    text-align: center;
+}
